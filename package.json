@@ -12,7 +12,9 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "sass": "^1.44.0",
+    "sass-loader": "^12.4.0"
   },
   "volta": {
     "node": "16.13.1",
